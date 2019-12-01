@@ -97,4 +97,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:East-77/East-77.github.io.git
-  branch: public
+  branch: master
